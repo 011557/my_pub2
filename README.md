@@ -1,1 +1,1 @@
-# second putlic repo
+# second public repo
